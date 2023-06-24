@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samir-kumal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, HTML, CSS and php
-- 💞️ I’m looking to collaborate on making web projects 
+- 👀 I’m interested in web development, mobile development
+- 🌱 I’m currently learning React, React Native, Node.
+- 💞️ I’m looking to collaborate on making web projects and mobile development projects
 - 📫 How to reach me instagram https://www.instagram.com/samer_kumal/
 
 <!---
