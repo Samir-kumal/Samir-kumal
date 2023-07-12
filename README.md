@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Samir-kumal&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m @Samir-kumal
 - 👀 I’m interested in web development, mobile development
