@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @Samir-kumal
 - 👀 I’m interested in web development, mobile development
 - 🌱 I’m currently learning React, React Native, Node.
