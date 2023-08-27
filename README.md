@@ -18,9 +18,7 @@
 - 👀 I’m interested in web development, mobile development
 - 🌱 I’m currently learning React, React Native, Node.
 - 💞️ I’m looking to collaborate on making web projects and mobile development projects
-- 📫 How to reach me in LinkedIn   <a href="https://www.linkedin.com/in/samir-kumal-85b105266/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
+
 
 <!---
 Samir-kumal/Samir-kumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
