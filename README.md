@@ -19,12 +19,16 @@
 
 
 
-
+<div id="desc" align="center">
 - 👋 Hi, I’m @Samir-kumal
 - 👀 I’m interested in web development, mobile development
 - 🌱 I’m currently learning React, React Native, Node.
 - 💞️ I’m looking to collaborate on making web projects and mobile development projects
+  
+</div>
 
+
+<div id="stats" align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Samir-kumal&show_icons=true&theme=dark"
@@ -36,6 +40,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+  
+</div>
+
+
 
 
 <!---
