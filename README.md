@@ -44,6 +44,12 @@
     <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
   </ul>
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,tailwind,c++,java" />
+  </a>
+</p>
+
 
 
 
