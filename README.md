@@ -13,9 +13,16 @@
   </a>
 </div>
 <img align="center" src="https://komarev.com/ghpvc/?username=Samir-kumal&style=flat-square&color=blue" alt=""/>
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
-<picture>
+
+
+
+- 👋 Hi, I’m @Samir-kumal
+- 👀 I’m interested in web development, mobile development
+- 🌱 I’m currently learning React, React Native, Node.
+- 💞️ I’m looking to collaborate on making web projects and mobile development projects
+
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Samir-kumal&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -26,11 +33,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
-- 👋 Hi, I’m @Samir-kumal
-- 👀 I’m interested in web development, mobile development
-- 🌱 I’m currently learning React, React Native, Node.
-- 💞️ I’m looking to collaborate on making web projects and mobile development projects
 
 
 <!---
