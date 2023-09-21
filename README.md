@@ -20,7 +20,7 @@
 
 
 <div id="desc" align="center">
-  <ul>
+  <ul align = "left">
     <li>- 👋 Hi, I’m @Samir-kumal</li>
     <li>- 👀 I’m interested in web development, mobile development</li>
     <li>- 🌱 I’m currently learning React, React Native, Node.</li>
