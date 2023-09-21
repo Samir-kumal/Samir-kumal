@@ -20,10 +20,16 @@
 
 
 <div id="desc" align="center">
-- 👋 Hi, I’m @Samir-kumal
-- 👀 I’m interested in web development, mobile development
-- 🌱 I’m currently learning React, React Native, Node.
-- 💞️ I’m looking to collaborate on making web projects and mobile development projects
+  <ul>
+    <li>- 👋 Hi, I’m @Samir-kumal</li>
+    <li>- 👀 I’m interested in web development, mobile development</li>
+    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
+    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
+  </ul>
+
+
+
+
   
 </div>
 
