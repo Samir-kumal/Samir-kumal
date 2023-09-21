@@ -1,3 +1,18 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br>
+<div id="desc" align="center">
+  <ul align = "left">
+    <li>- 👀 I’m interested in web development, mobile development</li>
+    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
+    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
+  </ul>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,tailwind,typescript,java" />
+  </a>
+</p>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -36,19 +51,7 @@
   
 </div>
 <br>
-<div id="desc" align="center">
-  <ul align = "left">
-    <li>- 👋 Hi, I’m @Samir-kumal</li>
-    <li>- 👀 I’m interested in web development, mobile development</li>
-    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
-    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
-  </ul>
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,tailwind,typescript,java" />
-  </a>
-</p>
 
 
 
