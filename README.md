@@ -40,13 +40,6 @@
 <br>
 
 
-<div id="desc" align="center">
-  <ul align = "left">
-    <li>- 👀 I’m Samir and I do  web development, mobile development</li>
-    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
-    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
-  </ul>
-</div>
 
   <p align="center">
   <a href="https://skillicons.dev">
