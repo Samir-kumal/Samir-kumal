@@ -19,19 +19,6 @@
 
 
 
-<div id="desc" align="center">
-  <ul align = "center">
-    <li>- 👋 Hi, I’m @Samir-kumal</li>
-    <li>- 👀 I’m interested in web development, mobile development</li>
-    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
-    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
-  </ul>
-
-
-
-
-  
-</div>
 
 
 <div id="stats" align="center">
@@ -48,6 +35,20 @@
 </picture>
   
 </div>
+<div id="desc" align="center">
+  <ul align = "left">
+    <li>- 👋 Hi, I’m @Samir-kumal</li>
+    <li>- 👀 I’m interested in web development, mobile development</li>
+    <li>- 🌱 I’m currently learning React, React Native, Node.</li>
+    <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
+  </ul>
+
+
+
+
+  
+</div>
+
 
 
 
