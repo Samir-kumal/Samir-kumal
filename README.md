@@ -1,8 +1,7 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-<br>
+
 <div id="desc" align="center">
   <ul align = "left">
-    <li>- 👀 I’m interested in web development, mobile development</li>
+    <li>- 👀 I’m Samir and I do  web development, mobile development</li>
     <li>- 🌱 I’m currently learning React, React Native, Node.</li>
     <li>- 💞️ I’m looking to collaborate on making web projects and mobile development projects</li>
   </ul>
