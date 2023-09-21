@@ -23,7 +23,7 @@
 <br>
 
 
-<div id="stats" align="left">
+<div id="stats" align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Samir-kumal&show_icons=true&theme=dark"
