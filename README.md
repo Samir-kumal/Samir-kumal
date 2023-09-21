@@ -18,7 +18,7 @@
 </div>
 
 
-
+<br>
 
 
 <div id="stats" align="center">
@@ -35,6 +35,7 @@
 </picture>
   
 </div>
+<br>
 <div id="desc" align="center">
   <ul align = "left">
     <li>- 👋 Hi, I’m @Samir-kumal</li>
