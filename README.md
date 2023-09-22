@@ -43,7 +43,7 @@
 <div id="stats" align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
