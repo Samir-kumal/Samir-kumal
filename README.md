@@ -30,14 +30,31 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Samir-kumal&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samir-kumal&show_icons=true" />
 </picture>
   
 </div>
 <br>
+
+
+<div id="stats" align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true" />
+</picture>
+  
+</div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true) -->
 
 
 
