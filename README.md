@@ -2,6 +2,7 @@
 <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Hello, I am Samir! and I love Coding </h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/samir-kumal-85b105266/">
@@ -31,9 +32,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samir-kumal&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
 </div>
 <br>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-kumal&hide_progress=true) -->
 
 
